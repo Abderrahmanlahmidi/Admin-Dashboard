@@ -5,7 +5,7 @@ import Topbar from '../src/pages/globale/Topbar';
 import Sidebar from './pages/globale/Sidebar';
 import Dashboard from './pages/dashboard/Dashboard';
 import Team from "./pages/Team/index";
-import Contacts from "./pages/contacts/Index";
+import Contacts from "./pages/contacts/index";
 import Invoices from "./pages/invoices/index";
 import Form from "../src/pages/form/index";
 import Calendar from './pages/calendar/index';
